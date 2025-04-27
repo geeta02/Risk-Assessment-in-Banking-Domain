@@ -19,15 +19,27 @@ It combines database connection, data preprocessing, Exploratory Data Analysis (
 
 Here is the overview of the banking risk analysis dashboard:
 
+
+## Banksing Dashboard
+
 ![Banking Dashboard Overview](images/RiskAssessment-Home.png)
 
+
+
+
+## Loan Analysis
 
 ![Loan Analysis](images/RiskAssessment-LoanAnalysis.png)
 
 
+## Deposit Analysis
+
 ![Deposit Analysis](images/RiskAssessment-DepositAnalysis.png)
 
 
+
+
+## Summary
 
 ![Summary](images/RiskAssessment-Summary.png)
 
