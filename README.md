@@ -15,3 +15,20 @@ It combines database connection, data preprocessing, Exploratory Data Analysis (
 - MySQL
 - PowerBI
 
+# Dashboard
+
+Here is the overview of the banking risk analysis dashboard:
+
+![Banking Dashboard Overview](images/RiskAssessment-Home.png)
+
+
+![Loan Analysis](images/RiskAssessment-LoanAnalysis.png)
+
+
+![Deposit Analysis](images/RiskAssessment-DepositAnalysis.png)
+
+
+
+![Summary](images/RiskAssessment-Summary.png)
+
+
